@@ -12,7 +12,6 @@ https://user-images.githubusercontent.com/66362682/227550777-b01b9207-ad5b-4c35-
 
 ## Requirements
 
-- python 3.8+
 - A Microsoft Account with early access to <https://bing.com/chat> (Required)
 
 ## Getting authentication (Required)
