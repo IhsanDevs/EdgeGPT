@@ -1,0 +1,40 @@
+{
+    "name": "ihsandevs/php-edge-gpt",
+    "description": "Bing AI Chatbot WebSocket API Wrapper for PHP",
+    "keywords": [
+        "edgegpt",
+        "edge",
+        "gpt",
+        "chatbot",
+        "ai",
+        "websocket",
+        "api",
+        "wrapper",
+        "php"
+    ],
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.5",
+        "textalk/websocket": "^1.6",
+        "spatie/async": "^1.5",
+        "composer/ca-bundle": "^1.3",
+        "react/promise": "^2.9"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ihsandevs\\EdgeGpt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ihsan Devs",
+            "email": "contact@ihsandevs.com",
+            "homepage": "https://ihsandevs.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "version": "1.0.0",
+    "homepage": "https://github.com/IhsanDevs/EdgeGPT"
+}
