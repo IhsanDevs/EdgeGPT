@@ -4,6 +4,12 @@
 
 The ihsandevs/edge-gpt library is a powerful and easy-to-use PHP wrapper for the Bing AI Chatbot, leveraging the WebSocket API. Seamlessly integrate the advanced conversational capabilities of Bing's AI Chatbot into your PHP projects and create engaging user experiences with ease.
 
+## Demo
+
+https://user-images.githubusercontent.com/66362682/227550777-b01b9207-ad5b-4c35-b42e-698ee83934f3.mp4
+
+
+
 ## Requirements
 
 - python 3.8+
