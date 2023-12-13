@@ -1,3 +1,5 @@
+> This project has been discontinued and can no longer be used. Because Bing security will always be updated regularly, of course. But not with this project, the time factor and bypass some of Bing's increasingly updated security.
+
 ![EdgeGPT](https://socialify.git.ci/IhsanDevs/EdgeGPT/image?description=1&font=Inter&forks=1&issues=1&language=1&logo=https%3A%2F%2Fimg.icons8.com%2Fnolan%2F512%2Fchatgpt.png&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
 # Edge-GPT: Bing AI Chatbot WebSocket API Wrapper for PHP
